@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ||club.china.com/zh_cn/chaotong0/index.html
 news.china.com##.channelHead_left
 news.china.com##.epSearch
